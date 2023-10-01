@@ -1,6 +1,6 @@
 # single-pass
 
-## do everything in single pass
+## do it all in a single-pass
 
 ```javascript
     import { filter, map } from 'single-pass';
