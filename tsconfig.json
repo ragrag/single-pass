@@ -15,11 +15,11 @@
     "types": [
       "bun-types" // add Bun global
     ],
-    "declaration": true,
-    "declarationMap": true,
+    "outDir": "./build/",
     "sourceMap": true,
-    "outDir": "build"
+    "declaration": true,
+    "rootDir": "./"
   },
-  "include": ["index.ts"],
-  "exclude": ["build"]
+  "include": ["src/*.ts", "src/**/*.ts"],
+  "exclude": ["build", "node_modules"]
 }
