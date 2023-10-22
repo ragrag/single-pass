@@ -1,6 +1,6 @@
 {
   "name": "single-pass",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "type": "module",
   "main": "./build/index.js",
   "module": "build/index.js",
