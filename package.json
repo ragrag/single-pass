@@ -1,6 +1,6 @@
 {
   "name": "single-pass",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "type": "module",
   "main": "./build/index.js",
   "module": "build/index.js",
@@ -22,5 +22,14 @@
   "scripts": {
     "build": "tsc",
     "test": "bun test"
-  }
+  },
+  "repository": "https://github.com/ragrag/single-pass",
+  "keywords": [
+    "single-pass",
+    "map",
+    "filter",
+    "find",
+    "findIndex",
+    "array"
+  ]
 }
