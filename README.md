@@ -75,4 +75,4 @@ Benchmarks on an array with 1,000,000 items doing 1000 passes
 
 | Function | n-passes | single-pass |
 |----------|----------|-------------|
-| Filter   | 1267ms    | 2646ms       |
+| Filter   | 12673ms    | 2646ms       |
